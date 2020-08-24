@@ -163,19 +163,6 @@ ul {
 
 .timetable {
 	text-align: left;
-<<<<<<< HEAD
-	margin-left: auto;
-	margin-right: auto;
-	border-top: solid 1px black;
-}
-
-th, td {
-	border-bottom: solid 1px black;
-	border-top: solid 1px black;
-}
-
-.timetable tbody:first-of-type {
-=======
 }
 
 tbody {
@@ -184,7 +171,6 @@ tbody {
 
 th, td {
 	border-bottom: solid 1px black;
->>>>>>> 418324cbd2f2fae6f9b55b37880436aa83e4a4a0
 	border-top: solid 1px black;
 }
 
