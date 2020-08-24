@@ -163,6 +163,7 @@ ul {
 
 .timetable {
 	text-align: left;
+<<<<<<< HEAD
 	margin-left: auto;
 	margin-right: auto;
 	border-top: solid 1px black;
@@ -174,6 +175,16 @@ th, td {
 }
 
 .timetable tbody:first-of-type {
+=======
+}
+
+tbody {
+	border-top: solid 2px black;
+}
+
+th, td {
+	border-bottom: solid 1px black;
+>>>>>>> 418324cbd2f2fae6f9b55b37880436aa83e4a4a0
 	border-top: solid 1px black;
 }
 
@@ -189,7 +200,7 @@ th, td {
 	padding: 0.75rem 0;
 }
 
-.a-sponsor {
+.top-sponsor {
 	max-height: 120px;
 	width: auto;
 }
@@ -202,6 +213,10 @@ th, td {
 .c-sponsor {
 	max-height: 70px;
 	width: auto;
+}
+
+.c-sponsor#odc {
+	min-height: 100px;
 }
 
 .textal {
@@ -217,7 +232,6 @@ th, td {
 	background-color: #df6dbf;
 	text-align: center;
 }
-
 
 
 .k {
